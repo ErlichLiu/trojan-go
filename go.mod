@@ -9,7 +9,7 @@ require (
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/stretchr/testify v1.7.0
 	github.com/txthinking/socks5 v0.0.0-20210716140126-fa1f52a8f2da
-	github.com/v2fly/v2ray-core/v4 v4.42.1
+	// github.com/v2fly/v2ray-core/v4 v4.42.1
 	github.com/xtaci/smux v1.5.15
 	golang.org/x/net v0.0.0-20210913180222-943fd674d43e
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
